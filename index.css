@@ -1,0 +1,13 @@
+ .banner{
+    background-image:url("images/donation4.jpg");
+    width: 100vw;
+    height:100vh;
+    position:relative;
+    background-repeat:no-repeat;
+    background-size:cover;
+ }
+
+ .banner text{
+    text-align:center;
+    color:content: '\f3e3';
+ }
