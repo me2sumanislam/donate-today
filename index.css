@@ -133,22 +133,109 @@ form{
    padding:6px;
    background-color:rgb(245, 139, 157);
 }
+ 
+ .div1{
+   width:250px;
+   float:left;
+   height:250px;
+   padding-left:20px;
+   margin-left:8%;
+   font-size:20px;
 
-.their-lives-depen1{
+}
+
+
+.div2{
+   background-color: ;
+   width:250px;
+   float:right;
+   height:50px;
+   padding-right:30%;
+   
+}
+
+
+ 
+
+.div1 button{
+   text-decoration:none;
+   text-align:center;
+   border:2px solid orange;
+   width:150px;
+   height:50px;
+   border-radius:10px;
+   display:block;
+   margin:auto;
+   background-color:gold;
+  
+
+}
+ 
+.new{
    display:flex;
-   align-content:center;
-   justify-content:center;
 }
 
-
-.their-llives-depen1 div{
-   align-items:center;
-   margin:20px;
+.new img{
    width:50%;
-   padding-top:10px;
-   border:2px solid gray;
-   padding:6px;
-   background-color:rgb(245, 139, 1
+   float:left;
+   margin-left:40px;
+}
+
+.new text{
+   width:50%;
+   float:right;
+   margin-right:40px;
+}
+/* 
+.new text,h1,p{
+   width:50%;
+} */
+
+
+.old{
+   display:flex;
+}
+
+.old img{
+   width:50%;
+   float:left;
+   margin-right:60px;
+   margin:30px;
+}
+
+.old text{
+   width:100%;
+   float:right;
+   margin-left:50px;
+    
+}
+/* 
+.old text,h1,p{
+   width:50%;
+   margin:30px;
+} */
+
+
+.get-my-update{
+   text-align:center;
+}
+
+.get-my-update p{
+   padding:10px;
+}
+
+.input-text{
+   margin-top:20px;
+   text-align:center;
+   background-color:pink;
+   width:600px;
+   height:100px;
+   display:block;
+   margin:auto;
+    padding-top:100px;
 }
 
 
+.input-text,button{
+   color;brown;
+}
