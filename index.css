@@ -17,7 +17,7 @@
  }
  
  .banner-text{
-    color:red;
+    color:rgb(221, 24, 24);
     text-align:center;
     padding-top:150px;
     font-family:'Roboto', sans-serif;
@@ -113,9 +113,7 @@ form{
 
     border:2px solid red;
 
-
 }
-
 
 .donate-plan2{
    display:flex;
@@ -206,14 +204,10 @@ form{
 .old text{
    width:100%;
    float:right;
-   margin-left:50px;
+   margin-right:20px;
     
 }
-/* 
-.old text,h1,p{
-   width:50%;
-   margin:30px;
-} */
+  
 
 
 .get-my-update{
@@ -236,6 +230,26 @@ form{
 }
 
 
-.input-text,button{
-   color;brown;
+#button{
+   background-color:rgb(252, 13, 13);
 }
+.footer{
+   background-color:black;
+   width:1000;
+   height150px;
+   margin-top:30px;
+}
+
+.footer h1{
+   color:rgb(247, 54, 86);
+   text-align:center;
+}
+
+.footer p{
+   color:white;
+   text-align:center;
+   
+}
+
+
+
